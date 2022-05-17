@@ -1,5 +1,5 @@
 # BATALLA NAVAL
- es un juego tradicional de estrategia y algo de suerte, que involucra a dos jugadores (uno de ellos es la maquina).
+ es un juego tradicional de estrategia y algo de suerte, que involucra a dos jugadores (uno de ellos es la mquina).
 
 ## DESCRIPCION DEL JUEGO.
 
