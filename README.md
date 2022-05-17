@@ -51,6 +51,6 @@
       de barcos.
     * Pedir ayuda para crear el tablero del oponente en "tab_oponente.txt" respetando lo mismo para el tablero del jugador. 
       Recodar que tanto este tablero como el de jugador deben estar en la misma carpeta que el archivo del juego. Dejo uno 
-      de prueba, tener en cuenta que tienen el mismo tablero de barcos.
+      de prueba, aclaro que son distintos los tableros.
     * Hecho todo esto, abrir el archivo en algun editor y correrlo. Se le abrira la ventana de la consola con el juego y 
       A JUGAR! y obviamente a GANAR!

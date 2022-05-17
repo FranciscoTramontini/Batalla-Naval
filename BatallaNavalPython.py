@@ -430,11 +430,11 @@ def jugar():
         else:
             print("\nTURNO OPONENTE")
             estado = ataque_oponente(estado)
+            estado = disminuir_disparos(estado)
             estado = verificar_fin_juego(estado)
             espera()
             limpiar_pantalla()
         mostrar_juego(estado)
-        estado = disminuir_disparos(estado)
     print("FINAL DEL JUEGO.....")
     if(estado[I_GANADOR] == G_JUGADOR):
         print("GANASTE!!!!!!! ヘ( ^o^)ノ＼(^_^ )")
