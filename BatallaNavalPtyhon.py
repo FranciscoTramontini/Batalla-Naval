@@ -59,8 +59,8 @@ AGUA = '·'
 # Representa el alfabeto para los nombres de la filas del tablero.
 ALFABETO = "abcdefghijklmnopqrstuvwqyz"
 # Variable globales como nombre de archivos para tablero.
-TABJUGADOR = "oponente.txt"
-TABOPONENTE = "oponente.txt"
+TABJUGADOR = "tab_jugador.txt"
+TABOPONENTE = "tab_oponente.txt"
 
 # Funciones del juego.
 
